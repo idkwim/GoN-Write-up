@@ -1,3 +1,7 @@
+### [gitbook](https://nn1ku.gitbooks.io/gon-write-up/content/)에도 업로드 되어있습니다.
+
+
+<hr>
 #Misc
 # View-Source✩
 
